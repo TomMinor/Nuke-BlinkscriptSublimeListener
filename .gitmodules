@@ -1,0 +1,3 @@
+[submodule "Nuke-CommandPort"]
+	path = Nuke-CommandPort
+	url = git@github.com:TomMinor/Nuke-CommandPort.git
